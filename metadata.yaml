@@ -1,0 +1,42 @@
+_repo: The-Cathedrals-and-Churches-of-the-Rhine_31936
+_version: 0.1.0
+contributor:
+  illustrator:
+    agent_name: McManus, Blanche
+    aliases:
+    - MacManus, Blanche
+    - Mansfield, Blanche McManus
+    birthdate: 1869
+    deathdate: 1935
+    gutenberg_agent_id: '31610'
+    url: http://www.gutenberg.org/2009/agents/31610
+covers:
+- cover_type: archival
+  image_path: 31936-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Mansfield, M. F. (Milburg Francisco)
+    aliases:
+    - Miltoun, Francis
+    - Mansfield, Milburg Francisco
+    - Mansfield, M.F
+    birthdate: 1871
+    gutenberg_agent_id: '31606'
+    url: http://www.gutenberg.org/2009/agents/31606
+description: ''
+gutenberg_issued: '2010-04-10'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '31936'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'DD'
+- !lcsh 'Cathedrals -- Rhine River Valley'
+- !lcsh 'Church architecture -- Rhine River Valley'
+- !lcc 'NA'
+- !lcsh 'Rhine River Valley -- Description and travel'
+title: The Cathedrals and Churches of the Rhine
+url: http://www.gutenberg.org/ebooks/31936
